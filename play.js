@@ -1,1 +1,5 @@
-s
+"use strict";
+
+window.onload = function() {
+
+};
